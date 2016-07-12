@@ -780,6 +780,8 @@
   <string name="pref_vthr_title">Seuil visées verticales</string>
   <string name="pref_vthr_summary">Seuil vertical GDHB/WENS</string>
   <string name="pref_vthr_message">Seuil inclinaison cheminement entre GDHB/WENS</string>
+  <string name="pref_eraseness_title">Taille de la gomme</string>
+  <!-- NOUVEAU ajouté ma ligne 783 pour traduire un terme du menu OPTION ECRAN DESSIN -->
   <string name="pref_plan_vthr_title">Seuil visées verticales</string>
   <!-- UNUSED string name="pref_plan_vthr_summary">Seuil visées verticales mode plan</string -->
   <string name="pref_plan_vthr_message">Seuil visées verticales en mode plan</string>
