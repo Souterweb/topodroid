@@ -204,7 +204,7 @@
 <string name="no_capture_app">Aucune application de capture d\'image</string>
 <string name="no_cave3d">Cave3D n\'est pas installé</string>
 <string name="no_db">Pas de base de données</string>
-<string name="no_device_address">Adresse de périphérique non sélectionné</string>
+<string name="no_device_address">Adresse de périphérique non sélectionnée</string>
 <string name="no_device_found">Pas de périphérique trouvé</string>
 <string name="no_gms">La Calibration ne contient pas de données.\nUtiliser le bouton Télécharger</string>
 <string name="no_geo_station">Échec : pas de station géolocalisée</string>
@@ -258,10 +258,10 @@
 
 <string name="popup_join_pt">Attacher au point le plus proche</string>
 <string name="popup_snap_ln">Attacher à la ligne la plus proche</string>
-<string name="popup_split_pt">Dupliquer point</string>
+<string name="popup_split_pt">Dupliquer le point</string>
 <string name="popup_split_ln">Couper la ligne</string>
-<string name="popup_sharp_pt">Redresser segment</string>
-<string name="popup_curve_pt">Lisser segment</string>
+<string name="popup_sharp_pt">Redresser le segment</string>
+<string name="popup_curve_pt">Lisser le segment</string>
 <string name="popup_remove_pt">Supprimer le point</string>
 
 <string name="connected_none">Non connecté</string>
@@ -271,7 +271,7 @@
 <string name="not_enabled">Bluetooth désactivé</string>
 
 <!-- UNUSED string name="not_implemented">Pas encore implémenté</string -->
-<string name="null_bitmap">creation image impossible</string>
+<string name="null_bitmap">Création image impossible</string>
 <!-- UNUSED string name="photo">photo</string -->
 <string name="photo_comment_prompt">Saisissez un commentaire pour la photo</string>
 <!-- UNUSED string name="photo_name">station/nom</string -->
@@ -284,7 +284,7 @@
 <!-- UNUSED string name="picture_no_station">Nom station requis</string -->
 <string name="plot_delete">Supprimer le croquis ?</string>
 <string name="item_delete">Supprimer object %1$s ?</string>
-<string name="plot_duplicate_name">dupliquer le nom du relevé</string>
+<string name="plot_duplicate_name">Dupliquer le nom du relevé</string>
 <!-- UNUSED string name="plot_name">Nom du croquis</string -->
 <string name="plot_new">Nouveau croquis</string>
 <string name="plot_not_found">Dessin introuvable</string>
@@ -323,14 +323,14 @@
     <!-- UNUSED string name="shot_clino">clino</string -->
     <!-- UNUSED string name="shot_compass">compass</string -->
     <string name="shot_delete">Supprimer visée ?</string >
-    <string name="shot_from">depuis</string>
+    <string name="shot_from">Depuis</string>
     <string name="shot_info">Saisir les infos de visée</string>
     <!-- UNUSED string name="shot_length">longueur</string -->
     <string name="shot_note">note</string>
     <string name="shot_reverse">inverse</string>
     <string name="shot_to">à</string>
 
-    <string name="make_surface">Surface existe. la remplacer?</string>
+    <string name="make_surface">Cette surface existe. La remplacer?</string>
 
     <string name="sketch3d_name">nom</string>
     <string name="sketch3d_new">Nouveau model 3D</string>
@@ -340,7 +340,7 @@
     <!-- UNUSED string name="sketch3d_null_start">Missing 3D sketch base station</string -->
     <!-- UNUSED string name="sketch3d_start">station de base</string -->
 
-    <string name="station">station</string>
+    <string name="station">Station</string>
     <string name="station_ask">Insérer station ?</string>
     <string name="station_set">Continuer le relevé depuis cette station ?</string>
     <!-- UNUSED string name="station_base">Station de référence</string -->
@@ -367,13 +367,13 @@
     <string name="write_ok">Étalonnage écrit dans le DistoX</string>
     <string name="zip_saved">Enregistré </string>
     <string name="zip_failed">Échec lors de la compression du relevé</string>
-    <string name="unzip_fail">Échec lors la décompression du relevé</string>
+    <string name="unzip_fail">Échec lors de la décompression du relevé</string>
     <!-- UNUSED string name="zoom_in_out">Zoom +/-</string -->
 
     <string name="survey_info">Information de relevé</string>
     <string name="stat_component">Composants %1$d</string>
     <string name="stat_depth">Profondeur %1$.1f %2$s %3$.1f %4$s"</string>
-    <string name="stat_duplicate">Visée dupliquées %1$d %2$.1f %3$s</string>
+    <string name="stat_duplicate">Visées dupliquées %1$d %2$.1f %3$s</string>
     <string name="stat_leg">Cheminements %1$d %2$.1f %3$s</string>
     <string name="stat_length">Longueur %1$.1f %2$s</string>
     <string name="stat_loop">Boucle %1$d</string>
@@ -403,7 +403,7 @@
     <string name="distox_err_connected">Périphérique déjà connecté</string>
 
      <!-- UNUSED string name="ask_close">Quitter TopoDroid?</string -->
-     <string name="ask_reset">Reinitialiser mémoire DistoX ?</string>
+     <string name="ask_reset">Réinitialiser la mémoire du DistoX ?</string>
      <!-- UNUSED string name="ask_close_survey">Quitter le relevé ?</string -->
 
 
