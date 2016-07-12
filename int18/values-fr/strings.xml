@@ -56,7 +56,7 @@
     <string name="calib_exists">Une Calibration existe déjà</string>
     <string name="calib_delete">Supprimer cette Calibration </string>
     <string name="calib_device_mismatch">ATTENTION : Calibration et Appareil ne correspondent pas</string>
-    <string name="calib_no_name">Vous devez indiquer un nom pour cette Calibration</string>
+    <string name="calib_no_name">Vous devez nommer cette Calibration</string>
     <string name="calib_gm_policy">Politique</string>
     <string name="calib_gm_undelete">Récupérer ces données de Calibration?</string>
     <string name="calib_saved">Calibration enregistrée</string>
@@ -70,7 +70,7 @@
     <!-- UNUSED string name="data"> données</string -->
     <string name="using">Utilisation de %1$s %2$s</string>
     <string name="calib_error">Erreur moyenne : %1$f degrés</string>
-    <string name="calib_stddev">Erreur stddev: %1$.4f degrees</string>
+    <string name="calib_stddev">Erreur stddev: %1$.4f degrés</string>
     <string name="calib_max_error">Erreur max : %1$.4f degrés</string>
     <string name="calib_ave_std">Précision : %1$.4f %2$.4f degrés</string>
     <string name="calib_precision">Précision</string>
@@ -95,11 +95,11 @@
 <!-- UNUSED string name="device_status_compass">Boussole/clino %1$s</string -->
 <!-- UNUSED string name="device_status_calib">Mode %1$s</string -->
 <!-- UNUSED string name="device_status_silent">Silencieux %1$s</string -->
-<string name="bt_reset">Redémarrer connexion Bluetooth</string>
+<string name="bt_reset">Redémarrer la connexion Bluetooth</string>
 <string name="save_as">Enregistrer sous</string>
 <string name="nickname">Surnom ou pseudo</string>
 
-<string name="comment">commentaires</string>
+<string name="comment">Commentaires</string>
 <!-- UNUSED string name="flag">Point Drapeau</string -->
 <!-- UNUSED string name="backshot">Visée Arrière</string -->
 <!-- UNUSED string name="duplicate">Double</string -->
@@ -111,7 +111,7 @@
 <string name="extend_right">Droite</string>
 <string name="extend_vert">Vert.</string>
 <!-- UNUSED string name="external_prompt">Saisir mesure</string -->
-<string name="splay_at_to">LRUD à la station Vers</string>
+<string name="splay_at_to">GDHB à la station Vers</string>
 
 <string name="few_data">Pas assez de données</string>
 <!-- UNUSED string name="few_plots">Pas assez de Points</string -->
@@ -346,7 +346,7 @@
     <!-- UNUSED string name="station_base">Station de référence</string -->
     <!-- UNUSED string name="station_next">next station</string -->
     <!-- UNUSED string name="station_viewed">station consultée</string -->
-    <string name="survey_exists">Ce nom de relevé existe deja</string>
+    <string name="survey_exists">Ce nom de relevé existe déjà</string>
     <!-- UNUSED string name="survey_date">aaaa/mm/jj</string -->
     <string name="survey_delete">Supprimer le relevé?</string>
     <string name="survey_split">Diviser le relevé?</string>
@@ -781,7 +781,7 @@
   <string name="pref_vthr_summary">Seuil vertical GDHB/WENS</string>
   <string name="pref_vthr_message">Seuil inclinaison cheminement entre GDHB/WENS</string>
   <string name="pref_eraseness_title">Taille de la gomme</string>
-  <!-- NOUVEAU ajouté ma ligne 783 pour traduire un terme du menu OPTION ECRAN DESSIN -->
+  <!-- NOUVEAU ajouté la ligne 783 pour traduire un terme du menu OPTION ECRAN DESSIN -->
   <string name="pref_plan_vthr_title">Seuil visées verticales</string>
   <!-- UNUSED string name="pref_plan_vthr_summary">Seuil visées verticales mode plan</string -->
   <string name="pref_plan_vthr_message">Seuil visées verticales en mode plan</string>
