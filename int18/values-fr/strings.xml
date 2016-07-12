@@ -449,13 +449,13 @@
     <string name="mode_splay">Visées latérales</string>
     <string name="mode_station">Stations</string>
     <string name="mode_grid">Grille</string>
-    <string name="mode_fixed">References fixes</string>
+    <string name="mode_fixed">Références fixes</string>
 
     <!-- UNUSED string name="remote_title">Contrôle à distance</string -->
     <string name="remote_on">Laser ACTIF</string>
     <string name="remote_off">Laser INACTIF</string>
     <!-- UNUSED string name="remote_measure">Mesure</string -->
-    <string name="remote_reset">Reset Bluetoot</string>
+    <string name="remote_reset">Reset Bluetooth</string>
     <!-- UNUSED string name="download">Telecharger</string -->
 
     <string name="popup_do_splay">Visée latérale</string>
@@ -476,9 +476,9 @@
 
     <string name="sketch_mode_single">Simple point</string>
     <string name="sketch_mode_ngbh">Points autour</string>
-    <string name="sketch_mode_all">tous les points</string>
+    <string name="sketch_mode_all">Tous les points</string>
     <string name="sketch_delete">Suprimer le model 3D?</string>
-    <string name="sketch_no_split">Aucun épuration, Réduire le coté à la taille maximum pour une épuration ultérieure.</string>
+    <string name="sketch_no_split">Aucun épuration. Réduire le côté à la taille maximum pour une épuration ultérieure.</string>
     <string name="length">Longueur [m]</string>
     <string name="azimuth">Azimut [deg]</string>
 
@@ -507,9 +507,9 @@
     <!-- UNUSED string name="btn_surface">surface</string -->
 
     <!-- UNUSED string name="station_next">SUIVANT</string -->
-    <string name="no_shot_between_stations">pas de points entre les stations</string>
+    <string name="no_shot_between_stations">Pas de points entre les stations</string>
     <string name="few_line_points">La ligne a trop peu de points</string>
-    <string name="line_delete">supprimer ligne</string>
+    <string name="line_delete">Supprimer ligne</string>
     <string name="flip_shots">Inverser les points</string>
 
     <!-- OK SKETCH3D non utilisé string name="menu_head">HEAD</string -->
@@ -523,7 +523,7 @@
     <string name="help_coeff">Montrer les coefficients de calibration</string>
     <string name="help_continue">Continuer une ligne</string>
     <string name="help_current_station">Stations enregistrées</string>
-    <string name="help_azimuth">Azimuth Reference Etendu</string>
+    <string name="help_azimuth">Azimuth Référence Etendu</string>
     <string name="help_device">Périphériques DistoX</string>
     <string name="help_add_topodroid">Crée un nouveau relevé/étalonnage</string>
     <string name="help_import">Importe une archive Zip ou un fichier Therion</string>
@@ -542,7 +542,7 @@
     <string name="help_overview">Résumé d\'activité</string>
     <string name="help_plot">Passe en mode croquis</string>
     <string name="help_note">Modifie les notes du relevé</string>
-    <string name="help_bluetooth">Reinitialise la connexion Bluetooth</string>
+    <string name="help_bluetooth">Réinitialise la connexion Bluetooth</string>
     <string name="help_remote">Contrôle à distance du DistoX</string>
     <string name="help_add_shot">Ajoute une visée manuellement</string>
     <string name="help_info_shot">Informations statistique de visée</string>
@@ -551,11 +551,11 @@
     <string name="help_photo">Photos</string>
     <string name="help_sensor">Mesures</string>
     <string name="help_3d">Visionneuse 3D (Application Cave3D)</string>
-    <string name="help_move">DEPLACER /mode ZOOM</string>
+    <string name="help_move">DÉPLACER /mode ZOOM</string>
     <string name="help_draw">Mode dessin</string>
     <string name="help_edit">Mode d\'édition</string>
     <string name="help_refs">Choix des références de dessin</string>
-    <string name="help_rename">Change survey name</string>
+    <string name="help_rename">Change le nom de la topographie</string>
     <string name="help_stats">Statistiques du relevé</string>
     <string name="help_save_plot">Exporte le croquis</string>
     <!-- UNUSED string name="help_tdr2th2">Converti dessin vers format th2</string -->
@@ -564,7 +564,7 @@
     <string name="help_undo">Annule la dernière action</string>
     <string name="help_redo">Rétabli la dernière action</string>
     <string name="help_symbol_plot">Sélectionne le symbole à dessiner</string>
-    <string name="help_delete_item">Supprimer Object topo</string>
+    <string name="help_delete_item">Supprimer Objet topo</string>
     <!-- UNUSED string name="help_clear">Clear selection</string -->
     <string name="help_eraser">Efface un/des éléments du croquis</string>
     <string name="help_previous">Sélectionne l\'élément précédent dans la sélection</string>
@@ -590,7 +590,7 @@
     <string name="help_firmware">Mise à jour du firmware du DistoX2</string>
     <string name="help_toggle">Bascule le DistoX en mode étalonnage/normal</string>
     <string name="help_sdcard">Fonction mémoire du DistoX</string>
-    <string name="help_read">Lit les coefficients de d\'étalonnage du DistoX</string>
+    <string name="help_read">Lit les coefficients d\'étalonnage du DistoX</string>
     <string name="help_info_device">Information sur l\'appareil</string>
     <string name="help_scan">Recherche de nouveaux DistoX</string>
     <string name="help_pair">Appairer le DistoX Actuel</string>
@@ -658,7 +658,7 @@
     <string name="title_calib_export">Exporter la calibration sous</string>
     <!-- UNUSED string name="title_zoom">Zoom</string -->
     
-  <string name="pref_cat_survey">OPTIONS DU RELEVE</string>
+  <string name="pref_cat_survey">OPTIONS DU RELEVÉ</string>
   <string name="pref_cat_drawing">OPTIONS DE DESSIN</string>
   <string name="pref_cat_import_export">IMPORT - EXPORT</string>
   <string name="pref_cat_calib">OPTIONS DE CALIBRATION</string>
@@ -674,7 +674,7 @@
   <!-- UNUSED string name="pref_bootloader_title">Chargeur de démarrage</string -->
   <!-- UNUSED string name="pref_bootloader_summary">Activer le chargeur de démarrage</string -->
   <string name="pref_mkeyboard_title">Clavier</string>
-  <string name="pref_mkeyboard_summary">Activer/Desactiver clavier optionnel</string>
+  <string name="pref_mkeyboard_summary">Activer/Désactiver clavier optionnel</string>
   <string name="pref_cosurvey_title">Co-relevé</string>
   <string name="pref_cosurvey_summary">Activer/désactiver co-relevé</string>
   <string name="pref_export_shots_title">Format export des données</string>
@@ -689,11 +689,11 @@
   <string name="pref_leg_shots_summary">Nombre minimum de visées successives pour identifier un cheminement</string>
   <string name="pref_station_prefix_title">Préfixe station EcSurvey</string>
   <string name="pref_station_prefix_summary">Export préfixe station cSurvey</string>
-  <string name="pref_ortho_lrud_title">Angle visé chem. LRUD</string>
+  <string name="pref_ortho_lrud_title">Angle visée chem. LRUD</string>
   <string name="pref_ortho_lrud_summary">Angle minimum visée de cheminement pour une cheminement LRUD</string>
-  <string name="pref_ortho_lrud_message">Angle minimul LRUD</string>
-  <string name="pref_survex_eol_title">Char. de fin de ligne Survex</string>
-  <string name="pref_survex_eol_summary">Charactère de fin de ligne Survex</string>
+  <string name="pref_ortho_lrud_message">Angle minimum LRUD</string>
+  <string name="pref_survex_eol_title">Caract. de fin de ligne Survex</string>
+  <string name="pref_survex_eol_summary">Caractère de fin de ligne Survex</string>
   <string name="pref_survex_splay_title">Stations de cheminement Survex</string>
   <string name="pref_survex_splay_summary">Ajout station Vers aux visées dans Survex</string>
   <string name="pref_survex_lrud_title">LRUD Survex</string>
@@ -733,7 +733,7 @@
   <string name="pref_location_title">OPTIONS GÉOLOCALISATION</string>
   <string name="pref_accuracy_title">PRÉCISION</string>
   <string name="pref_shot_data_title">OPTIONS DONNÉES VISÉE</string>
-  <string name="pref_shot_units_title">UNITÉES</string>
+  <string name="pref_shot_units_title">UNITÉS</string>
   <string name="pref_cwd_title">Répertoire TopoDroid</string>
   <!-- UNUSED string name="pref_cwd_summary">Répertoire TopoDroid</string -->
   <!-- UNUSED string name="pref_cwd_message">Saisissez le répertoire de TopoDroid</string -->
@@ -745,9 +745,9 @@
   <string name="pref_closeness_title">Radius de sélection</string>
   <!-- UNUSED string name="pref_closeness_summary">Portée de la zone de sélection</string -->
   <string name="pref_closeness_message">Portée de la zone de sélection</string>
-  <string name="pref_vert_splay_title">Seuil incl. visée latérales pointillé</string>
+  <string name="pref_vert_splay_title">Seuil incl. visée latérales pointillés</string>
   <!-- UNUSED string name="pref_vert_splay_summary">Seuil inclinaison visées latérales pointillé</string -->
-  <string name="pref_vert_splay_message">Seuil d\'inclinaison des visées latérales pointillé</string>
+  <string name="pref_vert_splay_message">Seuil d\'inclinaison des visées latérales pointillés</string>
   <string name="pref_survey_stations_title">Stations du relevé</string>
   <string name="pref_survey_stations_summary">Stations automatiques</string>
   <string name="pref_accel_thr_title">Tolérance de l\'accélération</string>
@@ -778,8 +778,8 @@
   <string name="pref_ethr_summary">Seuil verticalité des visées latérales</string>
   <string name="pref_ethr_message">Seuil d\'angle aux alentours des 90 deg pour définir l\'extension verticale des visées de cheminement</string>
   <string name="pref_vthr_title">Seuil visées verticales</string>
-  <string name="pref_vthr_summary">Seuil vertical LRUD/WENS</string>
-  <string name="pref_vthr_message">Seuil inclinaison cheminement entre LRUD/WENS</string>
+  <string name="pref_vthr_summary">Seuil vertical GDHB/WENS</string>
+  <string name="pref_vthr_message">Seuil inclinaison cheminement entre GDHB/WENS</string>
   <string name="pref_plan_vthr_title">Seuil visées verticales</string>
   <!-- UNUSED string name="pref_plan_vthr_summary">Seuil visées verticales mode plan</string -->
   <string name="pref_plan_vthr_message">Seuil visées verticales en mode plan</string>
@@ -803,7 +803,7 @@
   <string name="pref_dxf_scale_title">Échelle dessin DXF</string>
   <string name="pref_dxf_scale_summary">Facteur de l\'échelle du dessin DXF</string>
   <string name="pref_dxf_scale_message">Facteur de l\'échelle pour l\'export du dessin au format DXF</string>
-  <string name="pref_thumbnail_title">Taille miniatures</string>
+  <string name="pref_thumbnail_title">Taille des miniatures</string>
   <string name="pref_thumbnail_summary">Taille des images miniatures</string>
   <string name="pref_thumbnail_message">Taille des images miniatures</string>
   <string name="pref_shot_timer_title">Minuteur boussole</string>
@@ -863,7 +863,7 @@
   <!-- UNUSED string name="pref_device_message">Adresse du DistoX</string -->
   <string name="pref_checkBT_title">Bluetooth</string>
   <string name="pref_checkBT_summary">Activer/désactiver Bluetooth</string>
-  <string name="pref_checkAttached_title">Vérification cheminement</string>
+  <string name="pref_checkAttached_title">Vérification du cheminement</string>
   <string name="pref_checkAttached_summary">Vérifier si les stations sont reliées</string>
   <!-- UNUSED string name="pref_xtherion_areas_title">Aire Xtherion</string -->
   <!-- UNUSED string name="pref_xtherion_areas_summary">Sauver les Aires Xtherion</string -->
@@ -920,8 +920,8 @@
   <string name="pref_unit_location_summary">Afficher les unités de géolocalisation</string>
 
   <string name="pref_plot_walls_title">PAROIS AUTO</string>
-  <string name="pref_walls_type_title">Type parois</string>
-  <string name="pref_walls_type_summary">Type de parois</string>
+  <string name="pref_walls_type_title">Type paroi</string>
+  <string name="pref_walls_type_summary">Type de paroi</string>
   <string name="pref_walls_plan_thr_title">Inclinaison visées latérales PLAN</string>
   <string name="pref_walls_plan_thr_summary">Inclinaison maximale visées latérales pour les parois en PLAN</string>
   <string name="pref_walls_plan_thr_message">Inclinaison maximale visées latérales parois PLAN [deg]</string>
@@ -982,13 +982,14 @@
     <string name="welcome_title">Bienvenue dans TopoDroid %1$s</string>
 
     <string name="welcome_text">
-\nTopodroid est une application Open Source pour réaliser des relevé topographique des cavités sous-terraine avec un DistoX.
+\nTopodroid est une application Open Source pour réaliser des relevé topographique des cavités souterraines avec un DistoX.
 \n\nAucune garantie : en utilisant ce logiciel vous acceptez que l\'auteur ne puisse être responsable d\'une quelconque perte de données, dommages ou quoi que ce soit.
 \n\nAide disponible via la touche MENU.
 \nDocumentation : http://sites.google.com/site/speleoapps
 \nCommentaires, rapports de bugs, demandes de fonctionnalités à : marco.corvi@gmail.com
 \nTraduction initiale de par G. Chardin : guillaume.chardin@gmail.com
 \nMise à jour le 29-11-2015 par F. Martin : frankm@gmail.com
+\nMise à jour le 12-07-2016 par D. Ros : souterweb@free.fr
     </string>
 
   <string name="firmware_title">Firmware Updater</string>
@@ -1003,8 +1004,8 @@
 \n[7] Etteignez le DistoX2 avec la touche CLR.
 \n
    </string>
-   <string name="firmware_none">auncun firmware</string>
-   <string name="firmware_file">firmware</string>
+   <string name="firmware_none">Aauncun firmware</string>
+   <string name="firmware_file">Firmware</string>
    <string name="firmware_file_exists">Fichier firmware existant</string>
    <string name="firmware_file_missing">Fichier firmware manquant</string>
    <string name="ask_dump">Sauvegarder firmware ?</string>
