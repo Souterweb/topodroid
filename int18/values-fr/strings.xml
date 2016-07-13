@@ -888,6 +888,8 @@
 
   <string name="pref_picker_type_title">Sélectionneur de symbole</string>
   <string name="pref_picker_type_summary">Type sélectionneur symbole</string>
+  <string name="pref_section_stations_title">Stations X-Section</string>
+  <string name="pref_section_stations_summary">Base de référence pour X-Section</string>
   <string name="pref_station_size_title">Taille nom de station</string>
   <string name="pref_station_size_summary">Taille du texte des stations</string>
   <string name="pref_station_size_message">Taille du texte des stations</string>
