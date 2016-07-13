@@ -532,7 +532,7 @@
     <!-- UNUSED string name="help_database">Application Database viewer (SQliteViewer)</string -->
     <string name="help_prefs">Modifie les préférences</string>
     <string name="help_log">Active/désactive les options de journalisation</string>
-    <string name="help_join_survey">Rejoindre les relevées</string>
+    <string name="help_join_survey">Joindre les relevés</string>
     <string name="help_info_topodroid">Infos TopoDroid</string>
     <string name="help_download">Télécharge les données</string>
     <!-- UNUSED string name="help_splay">Affecte automatiquement les stations aux visées latérales</string -->
