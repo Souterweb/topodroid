@@ -722,7 +722,7 @@
   <string name="pref_z6_workaround_title">Contournement Z6</string>
   <string name="pref_z6_workaround_summary">Contournement Z6 téléchargement données</string>
   <string name="pref_crs_title">C R S </string>
-  <string name="pref_crs_summary">Nom CRS</string>
+  <string name="pref_crs_summary">Nom du Système de Coordonnées de Référence (UTM, WGS84...)</string>
   <string name="pref_crs_message">Saisissez le nom CRS tel que dans Proj4</string>
   <!-- UNUSED string name="pref_gps_averaging_title">Utilizer GPSAveraging</string -->
   <!-- UNUSED string name="pref_gps_averaging_summary">Utiliser GPSAveraging</string -->
