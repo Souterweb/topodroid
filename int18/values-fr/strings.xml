@@ -714,6 +714,14 @@
   <!-- UNUSED string name="pref_comm_retry_summary">Nombre max. de tentatives</string -->
   <!-- UNUSED string name="pref_comm_retry_dialogtitle">Nombre max. de tentatives</string -->
   <!-- UNUSED string name="pref_comm_retry_message">Nombre max. de tentatives</string -->
+  
+  <string name="pref_wait_laser_title">Pause laser [ms]</string>
+  <string name="pref_wait_laser_summary">Temporisation après allumage du laser [ms]</string>
+  <string name="pref_wait_shot_title">Pause visée [ms]</string>
+  <string name="pref_wait_shot_summary">Temporisation après la mesure [ms]</string>
+  <string name="pref_wait_data_title">Pause données [ms]</string>
+  <string name="pref_wait_data_summary">Temporisation après un chargement de données [ms]</string>
+  
   <string name="pref_conn_mode_title">Mode de connexion</string>
   <string name="pref_conn_mode_summary">Comment connecter le DistoX</string>
   <string name="pref_auto_reconnect_title">Reconnexion automatique</string>
