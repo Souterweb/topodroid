@@ -887,18 +887,18 @@
   <string name="pref_station_size_summary">Taille du texte des stations</string>
   <string name="pref_station_size_message">Taille du texte des stations</string>
   <string name="pref_zoom_controls_title">Contrôle du zoom</string>
-  <string name="pref_zoom_controls_summary">Contrôle du zoom mode multi-touche</string>
+  <string name="pref_zoom_controls_summary">Contrôle du zoom mode multitouches</string>
   <string name="pref_side_drag_title">Déroulement latéral</string>
   <string name="pref_side_drag_summary">Activer le déroulement latéral dans le fenêtre de croquis</string>
   <string name="pref_unit_grid_title">Unités du croquis</string>
   <string name="pref_unit_grid_summary">Taille grille du croquis</string>
   <string name="pref_recent_nr_title">Nombre d\'outils récents</string>
-  <string name="pref_recent_nr_summary">Nombres d\'outils dernièrements utilisés à afficher dans le seclectionneur d\'outils</string>
+  <string name="pref_recent_nr_summary">Nombres d\'outils dernièrement utilisés à afficher dans le sélectionneur d\'outils</string>
   <string name="pref_area_border_title">Visibilité bordure</string>
   <string name="pref_area_border_summary">Visibilité de la bordure</string>
 
   <string name="pref_sketchUsesSplays_title">Dessiner les visées latérales</string>
-  <string name="pref_sketchUsesSplays_summary">Dessiner les surface en utilisant les visées latérales</string>
+  <string name="pref_sketchUsesSplays_summary">Dessiner les surfaces en utilisant les visées latérales</string>
   <string name="pref_sketchLineStep_title">Paramètres de ligne</string>
   <string name="pref_sketchLineStep_summary">Distance entre les points d\'une ligne</string>
   <string name="pref_sketchLineStep_message">Distance entre les points d\'une ligne</string>
@@ -907,7 +907,7 @@
   <string name="pref_sketchBorderStep_message">Distance entre les points d\'édition de ligne</string>
   <string name="pref_sketchSectionStep_title">Paramètres de section</string>
   <string name="pref_sketchSectionStep_summary">Distance entre sections</string>
-  <string name="pref_sketchSectionStep_message">Distance entre sections intermédiaire</string>
+  <string name="pref_sketchSectionStep_message">Distance entre sections intermédiaires</string>
   <string name="pref_sketchDeltaExtrude_title">Extrude delta</string>
   <string name="pref_sketchDeltaExtrude_summary">Extrude delta</string>
   <string name="pref_sketchDeltaExtrude_message">Extrude delta</string>
@@ -1007,7 +1007,7 @@
 \n[7] Etteignez le DistoX2 avec la touche CLR.
 \n
    </string>
-   <string name="firmware_none">Aauncun firmware</string>
+   <string name="firmware_none">Auncun firmware</string>
    <string name="firmware_file">Firmware</string>
    <string name="firmware_file_exists">Fichier firmware existant</string>
    <string name="firmware_file_missing">Fichier firmware manquant</string>
