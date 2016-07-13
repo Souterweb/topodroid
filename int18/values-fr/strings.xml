@@ -769,7 +769,8 @@
   <string name="pref_mag_anomaly_summary">Compensation anomalie magnétique locale</string>
   <string name="pref_azimuth_manual_title">Définition manuelle "extension"</string>
   <string name="pref_azimuth_manual_summary">Définir manuellement les extensions D/G des visées</string>
-
+  <string name="pref_prev_next_title">Icônes Précédent/Suivant</string>
+  <string name="pref_prev_next_summary">Boutons Précédent/Suivant dans la boîte de dialogue de nouvelle visée</string>
   <string name="pref_team_title">Équipe spéleo</string>
   <string name="pref_team_summary">Nom équipe de Spéleo</string>
   <string name="pref_team_message">Nom équipe de topographie</string>
