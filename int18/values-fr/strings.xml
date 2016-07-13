@@ -669,6 +669,11 @@
   <string name="pref_locale_title">Langue</string>
   <string name="pref_locale_summary">Langue</string>
 
+  <string name="pref_export_plot_title">Format export des dessins</string>
+  <string name="pref_export_plot_summary">Format par défaut d'exportation des dessins</string>
+  <string name="pref_therion_maps_title">Cartes Therion en premier</string>
+  <string name="pref_therion_maps_summary">Export des Cartes Therion avant les données topographiques</string>
+
   <string name="pref_raw_data_title">Données brutes</string>
   <string name="pref_raw_data_summary">Afficher les données brutes</string>
   <!-- UNUSED string name="pref_bootloader_title">Chargeur de démarrage</string -->
