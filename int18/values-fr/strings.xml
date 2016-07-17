@@ -669,7 +669,7 @@
   <string name="pref_locale_title">Langue</string>
   <string name="pref_locale_summary">Langue</string>
 
-  <string name="pref_export_plot_title">Format export des dessins</string>
+  <string name="pref_export_plot_title">Format export dessins</string>
   <string name="pref_export_plot_summary">Format par défaut d'exportation des dessins</string>
   <string name="pref_therion_maps_title">Cartes Therion en premier</string>
   <string name="pref_therion_maps_summary">Export des Cartes Therion avant les données topographiques</string>
@@ -751,14 +751,14 @@
   <!-- UNUSED string name="pref_cwd_summary">Répertoire TopoDroid</string -->
   <!-- UNUSED string name="pref_cwd_message">Saisissez le répertoire de TopoDroid</string -->
   <string name="pref_pt_color_map_title">Couleur carte PocketTopo</string>
-  <string name="pref_pt_color_map_summary">Couleur carte PocketTopo(PocketTopo import)</string>
+  <string name="pref_pt_color_map_summary">Couleur carte PocketTopo (PocketTopo import)</string>
   <string name="pref_text_size_title">Taille du texte</string>
   <string name="pref_text_size_summary">Taille du texte des éléments de liste</string>
   <string name="pref_text_size_message">Taille du texte dans les listes</string>
   <string name="pref_closeness_title">Radius de sélection</string>
   <!-- UNUSED string name="pref_closeness_summary">Portée de la zone de sélection</string -->
   <string name="pref_closeness_message">Portée de la zone de sélection</string>
-  <string name="pref_vert_splay_title">Seuil incl. visée latérales pointillés</string>
+  <string name="pref_vert_splay_title">Seuil incl. visées latérales pointillés</string>
   <!-- UNUSED string name="pref_vert_splay_summary">Seuil inclinaison visées latérales pointillé</string -->
   <string name="pref_vert_splay_message">Seuil d\'inclinaison des visées latérales pointillés</string>
   <string name="pref_survey_stations_title">Stations du relevé</string>
@@ -774,8 +774,8 @@
   <string name="pref_dip_thr_message">Tolérance des visées : inclinaison</string>
 
   <string name="pref_leg_title">Tolérance du cheminement</string>
-  <string name="pref_leg_summary">Tolérance au long des visées de cheminement</string>
-  <string name="pref_leg_message">Tolérance au long des visées de cheminement</string>
+  <string name="pref_leg_summary">Tolérance le long des visées de cheminement</string>
+  <string name="pref_leg_message">Tolérance le long des visées de cheminement</string>
   <string name="pref_backsight_title">Visée inverse</string>
   <string name="pref_backsight_summary">Afficher les champs de saisie inverse dans la boîte de dialogue de nouvelle visée</string>
   <string name="pref_mag_anomaly_title">Anomalie magnétique</string>
@@ -892,7 +892,7 @@
   <!-- UNUSED string name="pref_splayExtend_title">Splay extend</string -->
   <!-- UNUSED string name="pref_splayExtend_summary">Whether to estimate the extend of splays</string -->
   <string name="pref_LRExtend_title">Estimer dist. latérales G/D</string>
-  <string name="pref_LRExtend_summary">Estimer les extensions gauche/droite(Compass/VisualTopo import)</string>
+  <string name="pref_LRExtend_summary">Estimer les extensions gauche/droite (Compass/VisualTopo import)</string>
 
   <string name="pref_picker_type_title">Sélectionneur de symbole</string>
   <string name="pref_picker_type_summary">Type sélectionneur symbole</string>
@@ -1016,7 +1016,7 @@
 \n[1] Choisissez l\'envoi d\'un firmware ou l\'export dans un fichier.
 \n[2] Choisissez le fichier à envoyer ou sauvegarder. Les fichiers firmware se trouvent dans le répertoire \'bin\'.
 \n[3] Soyez certain de charger un firmware compatible avec votre DistoX.
-\n[4] Placer le DistoX2 en mode bootloader: appuyez sur PLUS et MOINS  PLUS en l\'allumant avec la touche DIST.
+\n[4] Allumez le DistoX2 en mode bootloader en appuyant simultanément sur les touches PLUS, MOINS et ON/DIST.
 \n[5] Appuyez sur le bouton OK.
 \n[6] Confirmez et patientez jusqu\'à la fin de l\'opération.
 \n[7] Etteignez le DistoX2 avec la touche CLR.
@@ -1028,7 +1028,7 @@
    <string name="firmware_file_missing">Fichier firmware manquant</string>
    <string name="ask_dump">Sauvegarder firmware ?</string>
    <string name="ask_upload">Envoyer firmware ?</string>
-   <string name="ask_upload_not_compatible">Fichier firmware inconsistant.\nEnvoyer quand même ?</string>
+   <string name="ask_upload_not_compatible">Le firmware semble incorrect.\nEnvoyer quand même ?</string>
    <string name="firmware_file_dumped">Firmware sauvegardé dans : %1$s taille %2$d</string>
    <string name="firmware_file_uploaded">Firmware %1$s envoyé  %2$d / %3$d écrits</string>  
 </resources>
