@@ -34,7 +34,7 @@
   
 
   <string-array name="stationNames">
-     <item name="alpha">Alphanumerique</item>
+     <item name="alpha">Alphanumérique</item>
      <item name="number">Numérique</item>
   </string-array>
  
@@ -86,12 +86,12 @@
   </string-array>
  
 
-  <!-- TODO string-array name="sizeButtons">
+  <string-array name="sizeButtons">
      <item name="small">Petit</item>
      <item name="normal">Normal</item>
-     <item name="medium">Medium</item>
+     <item name="medium">Moyen</item>
      <item name="large">Grand</item>
-     <item name="huge">Huge</item>
+     <item name="huge">Enorme</item>
   </string-array -->
  
 
@@ -142,7 +142,7 @@
      <item name="recent">Plus récentes</item>
      <item name="list">Liste</item>
      <item name="grid">Grille</item>
-     <item name="grid3">Triple grid</item>
+     <item name="grid3">Triple grille</item>
    </string-array>
 
 
