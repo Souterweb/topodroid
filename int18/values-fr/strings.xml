@@ -562,7 +562,7 @@
     <string name="help_toggle_plot">Bascule entre plan et section étendue</string>
     <string name="help_trash">Supprime le croquis</string>
     <string name="help_undo">Annule la dernière action</string>
-    <string name="help_redo">Rétabli la dernière action</string>
+    <string name="help_redo">Rétablit la dernière action</string>
     <string name="help_symbol_plot">Sélectionne le symbole à dessiner</string>
     <string name="help_delete_item">Supprimer Objet topo</string>
     <!-- UNUSED string name="help_clear">Clear selection</string -->
@@ -745,7 +745,7 @@
   <string name="pref_tool_point_title">OUTILS POINTS</string>
   <string name="pref_location_title">OPTIONS GÉOLOCALISATION</string>
   <string name="pref_accuracy_title">PRÉCISION</string>
-  <string name="pref_shot_data_title">OPTIONS DONNÉES VISÉE</string>
+  <string name="pref_shot_data_title">OPTIONS DONNÉES VISÉES</string>
   <string name="pref_shot_units_title">UNITÉS</string>
   <string name="pref_cwd_title">Répertoire TopoDroid</string>
   <!-- UNUSED string name="pref_cwd_summary">Répertoire TopoDroid</string -->
@@ -755,7 +755,7 @@
   <string name="pref_text_size_title">Taille du texte</string>
   <string name="pref_text_size_summary">Taille du texte des éléments de liste</string>
   <string name="pref_text_size_message">Taille du texte dans les listes</string>
-  <string name="pref_closeness_title">Radius de sélection</string>
+  <string name="pref_closeness_title">Rayon de sélection</string>
   <!-- UNUSED string name="pref_closeness_summary">Portée de la zone de sélection</string -->
   <string name="pref_closeness_message">Portée de la zone de sélection</string>
   <string name="pref_vert_splay_title">Seuil incl. visées latérales pointillés</string>
