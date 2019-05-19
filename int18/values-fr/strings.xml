@@ -1096,7 +1096,7 @@
     <string name="pref_max_shot_title">Longueur max cheminement</string>
     <string name="pref_max_shot_summary">Longueur maximum d\'une visée [m]</string>
     <string name="pref_min_leg_title">Longueur min cheminement</string>
-    <string name="pref_min_leg_summary">Longueur maximum d\'un cheminement [m]</string>
+    <string name="pref_min_leg_summary">Longueur minimum d\'un cheminement [m]</string>
   <string name="pref_backsight_title">Visée inverse</string>
   <string name="pref_backsight_summary">Afficher les champs de saisie inverse dans la boîte de dialogue de nouvelle visée</string>
   <string name="pref_backshot_title">DistoX Visée inverse</string>
