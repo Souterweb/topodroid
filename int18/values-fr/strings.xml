@@ -1301,6 +1301,7 @@
   <string name="pref_log_csurvey">cSurvey</string>
   <string name="pref_log_data">Données</string>
   <string name="pref_log_db">Base de données</string>
+
   <string name="pref_log_debug">Debug</string>
   <string name="pref_log_device">Périphériques</string>
   <string name="pref_log_distox">DistoX</string>
